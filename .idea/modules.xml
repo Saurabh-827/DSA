@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConditionalAndLoops/ConditionalAndLoops.iml" filepath="$PROJECT_DIR$/ConditionalAndLoops/ConditionalAndLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA.iml" filepath="$PROJECT_DIR$/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstJavaProgram/First-Idea-Program/First-Idea-Program.iml" filepath="$PROJECT_DIR$/FirstJavaProgram/First-Idea-Program/First-Idea-Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" filepath="$PROJECT_DIR$/FirstJavaProgram/FirstJavaProgram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SwitchStatements/SwitchStatements.iml" filepath="$PROJECT_DIR$/SwitchStatements/SwitchStatements.iml" />
+    </modules>
+  </component>
+</project>

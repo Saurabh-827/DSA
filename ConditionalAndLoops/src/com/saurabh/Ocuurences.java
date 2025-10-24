@@ -29,7 +29,7 @@ public class Ocuurences {
         int p = in.nextInt();
 
         int count = 0;
-        while(count < n){
+        while(0 < n){
             int rem = n % 10;
             if (rem == p){
             count++;}

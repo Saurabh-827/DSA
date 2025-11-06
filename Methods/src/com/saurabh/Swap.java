@@ -4,9 +4,9 @@ import static java.util.Collections.swap;
 
 //| Type                 | What is Copied                    | Can you modify the original?                                 | Why                                                            |
 //| -------------------- | --------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
-//| **Primitive**        | Actual value (e.g., `10`, `true`) | ❌ No                                                         | Copy of value is separate                                      |
-//| **Object Reference** | Reference (memory address)        | ✅ Yes, if you change the internal content (e.g., list items) | Because both reference variables point to same object          |
-//| **String**           | Reference (memory address)        | ❌ No                                                         | Because `String` is immutable — changing it makes a new object |
+//| **Primitive**        | Actual value (e.g., `10`, `true`) | ❌ No (when doing swaping)                                   | Copy of value is separate                                      |
+//| **Object Reference** | Reference (memory address)        | ✅ Yes, if you change the internal content (e.g., list items)| Because both reference variables point to same object          |
+//| **String**           | Reference (memory address)        | ❌ No                                                        | Because `String` is immutable — changing it makes a new object |
 
 public class Swap {
     static void main(String[] args) {

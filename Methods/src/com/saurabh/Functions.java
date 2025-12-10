@@ -1,7 +1,7 @@
 package com.saurabh;
  import java.util.Scanner;
 public class Functions {
-    static void main(String[] args) {
+    public static void main(String[] args) {
 //        int ans = sum2();
 //        System.out.println("Sum of numbers is " + ans);
 

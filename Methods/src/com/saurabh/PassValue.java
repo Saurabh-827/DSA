@@ -1,7 +1,7 @@
 package com.saurabh;
 
 public class PassValue {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         {
             // NOTE ::: Any “modification” (concat, replace, assign new value) of String creates a new String object.
 

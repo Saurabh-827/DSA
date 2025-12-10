@@ -9,7 +9,7 @@ import static java.util.Collections.swap;
 //| **String**           | Reference (memory address)        | ❌ No                                                        | Because `String` is immutable — changing it makes a new object |
 
 public class Swap {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         int a  = 10;
         int b = 20;
         //swapping numbers

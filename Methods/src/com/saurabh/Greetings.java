@@ -1,7 +1,7 @@
 package com.saurabh;
 
 public class Greetings {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         greet();
     }
     static void greet(){

@@ -3,7 +3,7 @@ package com.saurabh;
 import java.util.Arrays;
 
 public class ChangeValue {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         //create an array
         int[] num = {87,45,5,4,53,46};
         System.out.println(System.identityHashCode(num));//same

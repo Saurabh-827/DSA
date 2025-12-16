@@ -11,6 +11,13 @@ public class Arrays {
 
         rolNum = new int[5]; //INITIALISATION: here object is getting created in the HEAP
 
+        System.out.println(rolNum[0]);   //By default, if no value assign than all index get value 0;
+
+        String[] wordsArr = new String[5];
+
+        System.out.println(wordsArr[2]); //By default, if no value assign than all index of string have null
+System.out.println(wordsArr[1]);
+System.out.println(wordsArr[0]);
 
 
     }
